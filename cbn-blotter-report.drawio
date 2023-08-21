@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-21T11:26:10.319Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Ui9fUJSHTbaiBpxPldxT" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-21T12:12:53.201Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="x8Axb78TMJhBzZXIj4Q2" version="21.6.8" type="github">
   <diagram name="Page-1" id="VZODMzliZemgseHfw8bb">
     <mxGraphModel dx="794" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -17,12 +17,12 @@
           <mxGeometry x="690" y="230" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pgZ6443vS1IIYW8wK6RY-7" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="40" y="190" width="140" height="160" as="geometry">
+          <mxGeometry x="40" y="190" width="140" height="190" as="geometry">
             <mxRectangle x="140" y="140" width="200" height="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pgZ6443vS1IIYW8wK6RY-9" value="&lt;b&gt;&lt;br&gt;Home&lt;br&gt;&lt;br&gt;Upload Report&lt;br&gt;&lt;br&gt;Download Report&lt;br&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=#006EAF;fillColor=#66B2FF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="90" y="230" width="70" height="100" as="geometry" />
+        <mxCell id="pgZ6443vS1IIYW8wK6RY-9" value="&lt;b&gt;&lt;br&gt;Dashboard&amp;nbsp;&lt;br&gt;&lt;br&gt;Upload Report&lt;br&gt;&lt;br&gt;Download Report&lt;br&gt;&lt;br&gt;Logout&lt;br&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=#006EAF;fillColor=#66B2FF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="80" y="210" width="80" height="130" as="geometry" />
         </mxCell>
         <mxCell id="pgZ6443vS1IIYW8wK6RY-10" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Garamond&quot; color=&quot;#3333ff&quot;&gt;&lt;b&gt;CBN FX Blotter Report (marquee)&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="30" y="120" width="760" height="30" as="geometry" />
